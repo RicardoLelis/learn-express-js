@@ -1,0 +1,26 @@
+{
+  "name": "learn-express",
+  "version": "1.0.0",
+  "description": "This is a Web Dev Simplified \"Learn Express JS In 35 Minutes\" tutorial",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoLelis/learn-express-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoLelis/learn-express-js/issues"
+  },
+  "homepage": "https://github.com/RicardoLelis/learn-express-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
