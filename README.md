@@ -22,3 +22,6 @@ This is where we're going to put all our server code.
 to run the app in dev mode, just enter cmd below in the cli:
 npm run devStart
 
+install library to be used as our view engine:
+npm i ejs
+
